@@ -30,7 +30,7 @@ These are selected specifically for ransomware IR skill-building. All are free t
 ### TryHackMe Rooms
 
 | Room | URL | Skill Built |
-|---|---|---|---|
+|---|---|---|
 | **Conti** | [tryhackme.com/room/conti](https://tryhackme.com/room/conti) | Conti ransomware PCAP + memory analysis workflow |
 | **Unattended** | [tryhackme.com/room/unattended](https://tryhackme.com/room/unattended) | Windows forensics timeline reconstruction post-ransomware |
 | **Masterminds** | [tryhackme.com/room/masterminds](https://tryhackme.com/room/masterminds) | Multi-stage attack investigation with ransomware final stage |
